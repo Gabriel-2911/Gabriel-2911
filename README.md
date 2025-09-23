@@ -9,7 +9,7 @@
 
 Atualmente sou Estagiário em Análise de Sistemas e estudante de tecnologia, sempre em busca de aprimorar minhas habilidades para construir soluções que resolvem problemas reais de negócio.
 
-Minha experiência prática inclui **análise de sistemas em Java**, desenvolvimento com bancos de dados **SQL** (MySQL, PostgreSQL) e **NoSQL** (MongoDB), criação e integração de **APIs RESTful**, e análise de dados utilizando **Python** e **Power BI**.
+Minha experiência prática inclui análise de sistemas com foco em projetos Java, desenvolvimento com bancos de dados SQL (MySQL, PostgreSQL) e NoSQL (MongoDB), criação e integração de APIs RESTful, e análise de dados utilizando Python e Power BI..
 
 ---
 
