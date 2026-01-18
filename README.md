@@ -1,48 +1,52 @@
-## Olá! Eu sou o Gabriel 👋
-
-### 👨‍💻 Analista de Sistemas & Desenvolvedor Backend em Formação
-
-Atualmente sou estagiário de Análise de Sistemas na **RB Investimentos**, onde atuo na sustentação de sistemas financeiros críticos. Estou em transição focada para o desenvolvimento de software, unindo minha visão analítica de negócio com arquitetura de código robusta.
-
-Meu foco é construir aplicações escaláveis e APIs seguras, aplicando padrões de mercado como MVC e Service Layer.
-
----
-
-### 🛠️ Tech Stack & Ferramentas
-
-**Backend & Linguagens**
-<div style="display: inline_block"><br>
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
-
-**Banco de Dados**
-<div style="display: inline_block"><br>
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
-
-**Ferramentas & DevOps**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-</div>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GabrielRyuu&layout=compact&theme=dracula"/>
+
+  <img src="https://i.imgur.com/vH8A5vF.png" alt="Banner Gabriel" width="100%" />
+
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+👋;Analista+de+Sistemas;Backend+Developer+.NET;Foco+em+Alta+Disponibilidade" alt="Typing SVG" />
+  </a>
+
+  <br>
+
+  <p align="center" width="600">
+    Atuo na <b>sustentação de sistemas financeiros críticos</b> na RB Investimentos, garantindo a integridade de dados e processos de negócio. <br>
+    Minha missão é migrar essa visão analítica para a construção de <b>APIs robustas</b> e <b>arquiteturas escaláveis</b>.
+  </p>
+
+  <br>
+
+  <h3>🛠️ Minha Stack Principal</h3>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,sqlserver,postgres,nodejs,ts,docker,git,postman,linux&perline=6&theme=dark" />
+    </a>
+  </p>
+
+  <br>
+
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+        </td>
+        <td>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-2911&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
+        </td>
+      </tr>
+    </table>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielRyuu&theme=dracula&hide_border=true" alt=" />
+  </div>
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-Fale%20Comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+
 </div>
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/)
