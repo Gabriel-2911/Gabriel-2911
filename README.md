@@ -20,7 +20,7 @@
   <h3>🛠️ Minha Stack Principal</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,docker,git,postman,linux&perline=6&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,docker,git,postman,linux&perline=6&theme=dark"/>
     </a>
   </p>
 
