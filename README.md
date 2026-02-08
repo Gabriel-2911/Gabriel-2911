@@ -16,7 +16,7 @@
 
   <br>
 
-  <h3>🛠️ Minha Stack Tecnológica</h3>
+  <h3>🛠️ Stacks </h3>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,nextjs,tailwind,sqlserver,docker,git,postman,linux&perline=6&theme=dark"/>
