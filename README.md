@@ -1,30 +1,36 @@
 <div align="center">
-
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop" alt="Banner Tech" width="100%" style="border-radius: 10px;" />
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop" alt="Banner Tech" width="100%" style="border-radius: 10px;" />
 
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+👋;Analista+de+Sistemas;Backend+Developer+.NET;Foco+em+Alta+Disponibilidade" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+👋;Full-Stack+Developer;Analista+de+Sistemas;Expert+em+.NET+|+Next.js;Foco+em+Performance" alt="Typing SVG" />
   </a>
 
   <br>
 
   <p align="center" width="600">
-    Atuo na <b>sustentação de sistemas financeiros críticos</b> na RB Investimentos, garantindo a integridade de dados e processos de negócio. <br>
-    Minha missão é migrar essa visão analítica para a construção de <b>APIs robustas</b> e <b>arquiteturas escaláveis</b>.
+    Atuo na <b>sustentação de sistemas financeiros críticos</b> na RB Investimentos, unindo o rigor analítico à construção de soluções modernas. <br> 
+    Especialista em <b>Backend (.NET/C#)</b> e expandindo fronteiras com <b>Frontend de alta performance (Next.js/TypeScript)</b>.
   </p>
 
   <br>
 
-  <h3>🛠️ Minha Stack Principal</h3>
+  <h3>🛠️ Minha Stack Tecnológica</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,docker,git,postman,linux&perline=6&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,nextjs,tailwind,sqlserver,docker,git,postman,linux&perline=6&theme=dark"/>
     </a>
   </p>
 
   <br>
+
+  <h3>🚀 Projeto em Destaque</h3>
+  <p><b>IT Odontologia Integrada:</b> Landing Page de alta conversão com triagem dinâmica e SEO Local.</p>
+  <a href="https://itodontologia24h.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Projeto_Online-29548a?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <br><br>
 
   <div align="center">
     <table border="0">
@@ -43,10 +49,10 @@
   <br>
 
   <a href="https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="mailto:gcortesteixeira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Fale%20Comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Email-Fale%20Comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </div>
