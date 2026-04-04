@@ -19,7 +19,7 @@
   <h3>🛠️ Stacks </h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,nextjs,tailwind,sqlserver,docker,git,postman,linux&perline=6&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,nextjs,tailwind,docker,git,postman,linux&perline=6&theme=dark"/>
     </a>
   </p>
 
