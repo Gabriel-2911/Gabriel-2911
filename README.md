@@ -10,7 +10,7 @@
   <br>
 
   <p align="center" width="600">
-    Atuo na <b>sustentação de sistemas financeiros críticos</b> na RB Investimentos, unindo o rigor analítico à construção de soluções modernas. <br> 
+    Atuo no <b> desenvolvimento e sustentação de sistemas financeiros críticos</b> na RB Investimentos, unindo o rigor analítico à construção de soluções modernas. <br> 
     Especialista em <b>Backend (.NET/C#)</b> e expandindo fronteiras com <b>Frontend de alta performance (Next.js/TypeScript)</b>.
   </p>
 
