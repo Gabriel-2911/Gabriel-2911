@@ -51,7 +51,7 @@
 
 <br>
 
-## 🚀 Projetos
+## 🚀 Projetos recentes
 
 ### IT Odontologia Integrada
 Landing page de alta conversão com triagem dinâmica de pacientes e SEO local.
