@@ -1,58 +1,78 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1000&auto=format&fit=crop" alt="Banner Tech" width="100%" style="border-radius: 10px;" />
 
-  <br><br>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+👋;Full-Stack+Developer;Analista+de+Sistemas;Expert+em+.NET+|+Next.js;Foco+em+Performance" alt="Typing SVG" />
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Analista+Desenvolvedor+%7C+RB+Investimentos;Back-end+.NET+(C%23)+e+Python;Integra%C3%A7%C3%B5es+B3+e+Mercado+de+Capitais;Expandindo+para+Full-Stack+com+Next.js" alt="Analista Desenvolvedor | Back-end .NET e Python | Integrações B3" />
   </a>
 
-  <br>
-
-  <p align="center" width="600">
-    Atuo no <b> desenvolvimento e sustentação de sistemas financeiros críticos</b> na RB Investimentos, unindo o rigor analítico à construção de soluções modernas. <br> 
-    Especialista em <b>Backend (.NET/C#)</b> e expandindo fronteiras com <b>Frontend de alta performance (Next.js/TypeScript)</b>.
-  </p>
-
-  <br>
-
-  <h3>🛠️ Stacks </h3>
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,java,ts,react,nextjs,tailwind,docker,git,postman,linux&perline=6&theme=dark"/>
-    </a>
+    Desenvolvo e sustento <b>sistemas críticos para o mercado de capitais</b> na RB Investimentos —
+    da integração com a B3 ao fechamento das rotinas diárias de uma corretora.
+    <br><br>
+    Forte em <b>back-end (.NET/C#)</b>, <b>automação em Python</b> e
+    <b>integridade de dados em SQL Server e Oracle</b>.
+    Hoje expandindo para full-stack com <b>Next.js e TypeScript</b>.
   </p>
 
-  <br>
-
-  <h3>🚀 Projeto em Destaque</h3>
-  <p><b>IT Odontologia Integrada:</b> Landing Page de alta conversão com triagem dinâmica e SEO Local.</p>
-  <a href="https://itodontologia24h.com.br/" target="_blank">
-    <img src="https://img.shields.io/badge/Ver_Projeto_Online-29548a?style=flat-square&logo=vercel&logoColor=white" />
+  <a href="https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:gcortesteixeira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Fale_comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+
+</div>
+
+<br>
+
+## 🛠️ Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,flask,ts,js,nextjs,react,tailwind&perline=9&theme=dark" alt="C#, .NET, Python, Flask, TypeScript, JavaScript, Next.js, React, Tailwind" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,azure,vscode&perline=9&theme=dark" alt="Docker, Git, GitHub, Postman, Linux, Azure, VS Code" />
+
   <br><br>
 
-  <div align="center">
-    <table border="0">
-      <tr>
-        <td>
-          <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-        </td>
-        <td>
-          <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gabriel-2911&layout=compact&theme=dracula&hide_border=true&langs_count=6"/>
-        </td>
-      </tr>
-    </table>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-2911&theme=dracula&hide_border=true" alt="Gabriel-2911" />
-  </div>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/REST_APIs-25A162?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
 
-  <br>
+</div>
 
-  <a href="https://www.linkedin.com/in/gabriel-cortes-teixeira-0b9a4722b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-  <a href="mailto:gcortesteixeira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Fale%20Comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<br>
+
+## 💼 O que eu faço
+
+- **Back-end e integrações** — APIs REST em .NET (C#) e ASP.NET Core conectando microsserviços e plataformas do mercado: B3, SINACOR, BankPro, Britech, Sisfinance.
+- **Automação em Python** — plataformas internas em Flask que substituem processo manual em operações, backoffice e compliance: geração de notas, envio de boletas e relatórios regulatórios.
+- **Dados em ambiente regulado** — modelagem, queries pesadas e análise de performance em SQL Server e Oracle, com foco em integridade e alta disponibilidade.
+
+<br>
+
+## 🚀 Projetos
+
+### IT Odontologia Integrada
+Landing page de alta conversão com triagem dinâmica de pacientes e SEO local.
+
+<a href="https://itodontologia24h.com.br/">
+  <img src="https://img.shields.io/badge/Ver_online-000000?style=flat-square&logo=vercel&logoColor=white" alt="Ver projeto online" />
+</a>
+
+<sub>`Next.js` · `TypeScript` · `Tailwind CSS`</sub>
+
+<br>
+
+## 📊 GitHub
+
+<div align="center">
+
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de Gabriel" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-2911&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" alt="Linguagens mais usadas" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=Gabriel-2911&theme=tokyonight&hide_border=true&border_radius=10" alt="Sequência de contribuições" />
 
 </div>
