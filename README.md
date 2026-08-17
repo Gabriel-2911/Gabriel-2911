@@ -68,8 +68,8 @@ Landing page de alta conversão com triagem dinâmica de pacientes e SEO local.
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de Gabriel" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-2911&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de Gabriel" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gabriel-2911&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" alt="Linguagens mais usadas" />
 
   <br><br>
 
