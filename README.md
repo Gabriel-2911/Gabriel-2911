@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+%F0%9F%91%8B;Analista+Desenvolvedor+%7C+RB+Investimentos;Back-end+.NET+(C%23)+e+Python;Integra%C3%A7%C3%B5es+B3+e+Mercado+de+Capitais;Expandindo+para+Full-Stack+com+Next.js" alt="Analista Desenvolvedor | Back-end .NET e Python | Integrações B3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel;Analista+Desenvolvedor+%7C+RB+Investimentos;Back-end+.NET+(C%23)+e+Python;Integra%C3%A7%C3%B5es+B3+e+Mercado+de+Capitais;Expandindo+para+Full-Stack+com+Next.js" alt="Analista Desenvolvedor | Back-end .NET e Python | Integrações B3" />
   </a>
 
   <p>
@@ -24,7 +24,7 @@
 
 <br>
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 <br>
 
-## 💼 O que eu faço
+## O que eu faço
 
 - **Back-end e integrações** — APIs REST em .NET (C#) e ASP.NET Core conectando microsserviços e plataformas do mercado: B3, SINACOR, BankPro, Britech, Sisfinance.
 - **Automação em Python** — plataformas internas em Flask que substituem processo manual em operações, backoffice e compliance: geração de notas, envio de boletas e relatórios regulatórios.
@@ -51,11 +51,11 @@
 
 <br>
 
-## 🚀 Projetos
+## Projetos
 
 Sites entregues a clientes, em produção. Código privado por se tratar de trabalho comercial.
 
-### IT Odontologia Integrada
+**IT Odontologia Integrada**
 Site institucional e canal de urgência 24h para clínica odontológica no Parque São Lucas (SP). O contato acontece por WhatsApp com roteamento contextual — urgência vai direto ao plantão, agendamento vai à secretaria — o que eliminou a triagem manual que a recepção fazia antes.
 
 <a href="https://itodontologia24h.com.br/">
@@ -66,7 +66,7 @@ Site institucional e canal de urgência 24h para clínica odontológica no Parqu
 
 <br>
 
-### Dra. Mayara Cortez
+**Dra. Mayara Cortez**
 Site de apresentação e captação para consultório odontológico, construído a partir do mobile. Direção visual sóbria e caminho curto até o contato, com foco em busca orgânica local.
 
 <a href="https://dramayaracortez.vercel.app/">
@@ -75,13 +75,13 @@ Site de apresentação e captação para consultório odontológico, construído
 
 <sub>`Next.js 15` · `TypeScript` · `Tailwind CSS` · `Netlify`</sub>
 
-## 📊 GitHub
+<br>
+
+## GitHub
 
 <div align="center">
 
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Gabriel-2911&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Estatísticas do GitHub de Gabriel" />
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Gabriel-2911&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" alt="Linguagens mais usadas" />
-
-
 
 </div>
