@@ -5,7 +5,7 @@
   </a>
 
   <p>
-    Desenvolvo e sustento <b>sistemas críticos para o mercado de capitais</b> na RB Investimentos —
+    Desenvolvo e sustento <b>sistemas críticos para o mercado de capitais</b> na RB Investimentos,
     da integração com a B3 ao fechamento das rotinas diárias de uma corretora.
     <br><br>
     Forte em <b>back-end (.NET/C#)</b>, <b>automação em Python</b> e
