@@ -51,18 +51,29 @@
 
 <br>
 
-## 🚀 Projetos recentes
+## 🚀 Projetos
+
+Sites entregues a clientes, em produção. Código privado por se tratar de trabalho comercial.
 
 ### IT Odontologia Integrada
-Landing page de alta conversão com triagem dinâmica de pacientes e SEO local.
+Site institucional e canal de urgência 24h para clínica odontológica no Parque São Lucas (SP). O contato acontece por WhatsApp com roteamento contextual — urgência vai direto ao plantão, agendamento vai à secretaria — o que eliminou a triagem manual que a recepção fazia antes.
 
 <a href="https://itodontologia24h.com.br/">
-  <img src="https://img.shields.io/badge/Ver_online-000000?style=flat-square&logo=vercel&logoColor=white" alt="Ver projeto online" />
+  <img src="https://img.shields.io/badge/Ver_online-000000?style=flat-square&logo=vercel&logoColor=white" alt="Ver IT Odontologia online" />
 </a>
 
-<sub>`Next.js` · `TypeScript` · `Tailwind CSS`</sub>
+<sub>`Next.js 15` · `TypeScript` · `Tailwind CSS` · `Sanity CMS` · `Netlify`</sub>
 
 <br>
+
+### Dra. Mayara Cortez
+Site de apresentação e captação para consultório odontológico, construído a partir do mobile. Direção visual sóbria e caminho curto até o contato, com foco em busca orgânica local.
+
+<a href="https://dramayaracortez.vercel.app/">
+  <img src="https://img.shields.io/badge/Ver_online-000000?style=flat-square&logo=vercel&logoColor=white" alt="Ver Dra. Mayara Cortez online" />
+</a>
+
+<sub>`Next.js 15` · `TypeScript` · `Tailwind CSS` · `Netlify`</sub>
 
 ## 📊 GitHub
 
