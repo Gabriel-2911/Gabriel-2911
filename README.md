@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel;Analista+Desenvolvedor+%7C+RB+Investimentos;Back-end+.NET+(C%23)+e+Python;Integra%C3%A7%C3%B5es+B3+e+Mercado+de+Capitais;Expandindo+para+Full-Stack+com+Next.js" alt="Analista Desenvolvedor | Back-end .NET e Python | Integrações B3" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel" alt="Analista Desenvolvedor | Back-end .NET e Python | Integrações B3" />
   </a>
 
   <p>
